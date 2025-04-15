@@ -57,10 +57,6 @@ export {
   threejs,
   python,
   java,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
 
   tcs,
   GBJlogo,
