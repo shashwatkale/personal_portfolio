@@ -21,6 +21,8 @@ import {
   tcs,
   mrsac,
   GBJlogo,
+  python,
+  java,
 } from "../assets";
 
 export const navLinks = [
@@ -79,8 +81,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Java",
+    icon: java,
   },
   {
     name: "Tailwind CSS",
@@ -103,8 +105,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Python",
+    icon: python,
   },
 ];
 
