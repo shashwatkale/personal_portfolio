@@ -20,11 +20,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
+import java from "./tech/java.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+
+import tcs from "./company/tcs.png";
+import GBJlogo from "./company/GBJlogo.png";
+import mrsac from "./company/mrsac.png";
+
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -52,10 +60,16 @@ export {
   tailwind,
   typescript,
   threejs,
+  python,
+  java,
   meta,
   shopify,
   starbucks,
   tesla,
+
+  tcs,
+  GBJlogo,
+  mrsac,
   carrent,
   jobit,
   tripguide,
