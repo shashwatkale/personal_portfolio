@@ -15,15 +15,10 @@ import {
   git,
   figma,
   docker,
-  starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
   tcs,
-  python,
-  java,
   mrsac,
   GBJlogo,
 } from "../assets";
@@ -84,8 +79,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Java",
-    icon: java,
+    name: "Redux Toolkit",
+    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -108,8 +103,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "Python",
-    icon: python,
+    name: "docker",
+    icon: docker,
   },
 ];
 
@@ -154,7 +149,6 @@ const experiences = [
     ],
   },
 ];
-
 const testimonials = [
   {
     testimonial:
